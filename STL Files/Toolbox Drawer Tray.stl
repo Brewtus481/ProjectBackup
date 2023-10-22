@@ -1,0 +1,198 @@
+solid Toolbox Drawer Tray
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 0.0 69.85
+    vertex 1.5875 1.5875 69.85
+    vertex 0.0 171.45 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.5875 1.5875 69.85
+    vertex 0.0 0.0 69.85
+    vertex 190.5 0.0 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.5875 1.5875 69.85
+    vertex 190.5 0.0 69.85
+    vertex 188.9125 1.5875 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 188.9125 1.5875 69.85
+    vertex 190.5 0.0 69.85
+    vertex 188.9125 169.86249999999998 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 171.45 69.85
+    vertex 1.5875 169.86249999999998 69.85
+    vertex 190.5 171.45 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.5875 169.86249999999998 69.85
+    vertex 0.0 171.45 69.85
+    vertex 1.5875 1.5875 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 190.5 171.45 69.85
+    vertex 1.5875 169.86249999999998 69.85
+    vertex 188.9125 169.86249999999998 69.85
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 190.5 171.45 69.85
+    vertex 188.9125 169.86249999999998 69.85
+    vertex 190.5 0.0 69.85
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 171.45 69.85
+    vertex 190.5 171.45 0.0
+    vertex 0.0 171.45 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 190.5 171.45 0.0
+    vertex 0.0 171.45 69.85
+    vertex 190.5 171.45 69.85
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 190.5 171.45 0.0
+    vertex 190.5 0.0 69.85
+    vertex 190.5 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 190.5 0.0 69.85
+    vertex 190.5 171.45 0.0
+    vertex 190.5 171.45 69.85
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 188.9125 169.86249999999998 69.85
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 188.9125 169.86249999999998 1.5875
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 188.9125 169.86249999999998 69.85
+    vertex 1.5875 169.86249999999998 69.85
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 190.5 0.0 69.85
+    vertex 0.0 0.0 0.0
+    vertex 190.5 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 190.5 0.0 69.85
+    vertex 0.0 0.0 69.85
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 1.5875 1.5875 69.85
+    vertex 1.5875 1.5875 1.5875
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 1.5875 1.5875 69.85
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 1.5875 169.86249999999998 69.85
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 171.45 69.85
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 69.85
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 171.45 69.85
+    vertex 0.0 171.45 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 -1.0
+  outer loop
+    vertex 190.5 171.45 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 171.45 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 190.5 171.45 0.0
+    vertex 190.5 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 188.9125 1.5875 1.5875
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 1.5875 1.5875 1.5875
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 1.5875 169.86249999999998 1.5875
+    vertex 188.9125 1.5875 1.5875
+    vertex 188.9125 169.86249999999998 1.5875
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex 188.9125 169.86249999999998 69.85
+    vertex 188.9125 1.5875 1.5875
+    vertex 188.9125 1.5875 69.85
+  endloop
+endfacet
+facet normal -1.0 -0.0 -0.0
+  outer loop
+    vertex 188.9125 1.5875 1.5875
+    vertex 188.9125 169.86249999999998 69.85
+    vertex 188.9125 169.86249999999998 1.5875
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 1.5875 1.5875 69.85
+    vertex 188.9125 1.5875 1.5875
+    vertex 1.5875 1.5875 1.5875
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 188.9125 1.5875 1.5875
+    vertex 1.5875 1.5875 69.85
+    vertex 188.9125 1.5875 69.85
+  endloop
+endfacet
+endsolid Toolbox Drawer Tray
